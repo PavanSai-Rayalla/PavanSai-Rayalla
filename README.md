@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PSR94/PSR94/main/assets/banner.svg" alt="Pavan Sai R banner" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PSR94/PSR94/main/assets/banner.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PSR94/PSR94/main/assets/banner-light.svg" />
+    <img src="https://raw.githubusercontent.com/PSR94/PSR94/main/assets/banner.svg" alt="Pavan Sai R banner" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
@@ -12,6 +16,10 @@
   <a href="https://github.com/PSR94?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Repositories-E5E7EB?style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=111827" alt="Repositories" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PSR94&color=F97316&style=flat-square" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -112,12 +120,24 @@ Most of my day-to-day work lives inside enterprise environments, so this profile
 ## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PSR94&show_icons=true&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=14B8A6&text_color=CBD5E1&border_color=00000000&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=334155&ring=F97316&fire=F97316&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=14B8A6&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PSR94&show_icons=true&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=14B8A6&text_color=CBD5E1&border_color=00000000&rank_icon=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=PSR94&show_icons=true&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=0D9488&text_color=334155&border_color=00000000&rank_icon=github" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=PSR94&show_icons=true&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=14B8A6&text_color=CBD5E1&border_color=00000000&rank_icon=github" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=334155&ring=F97316&fire=F97316&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=14B8A6&sideLabels=94A3B8&dates=94A3B8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=CBD5E1&ring=F97316&fire=F97316&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0D9488&sideLabels=475569&dates=475569" />
+    <img height="170" src="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=334155&ring=F97316&fire=F97316&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=14B8A6&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=CBD5E1&line=F97316&point=14B8A6&area=true&area_color=1f2937&hide_border=true" width="98%" alt="Activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=CBD5E1&line=F97316&point=14B8A6&area=true&area_color=1f2937&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=334155&line=F97316&point=0D9488&area=true&area_color=e2e8f0&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=CBD5E1&line=F97316&point=14B8A6&area=true&area_color=1f2937&hide_border=true" width="98%" alt="Activity graph" />
+  </picture>
 </p>
 
 <p align="center">
