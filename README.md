@@ -4,18 +4,18 @@
 
 <p align="center">
   <a href="mailto:pavansair.work@gmail.com">
-    <img src="https://img.shields.io/badge/email-pavansair.work%40gmail.com-1f2937?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-E5E7EB?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111827&color=111827" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/pavansair/">
-    <img src="https://img.shields.io/badge/linkedin-pavansair-1f2937?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-E5E7EB?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111827&color=111827" alt="LinkedIn" />
   </a>
   <a href="https://github.com/PSR94?tab=repositories">
-    <img src="https://img.shields.io/badge/public%20repos-view-1f2937?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
+    <img src="https://img.shields.io/badge/GitHub-Repositories-E5E7EB?style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=111827" alt="Repositories" />
   </a>
 </p>
 
 <p align="center">
-  <strong>AI/ML engineer building agentic systems, grounded retrieval, and product-grade full-stack applications.</strong>
+  <strong>Designing AI systems that are grounded, usable, and built for real work.</strong>
 </p>
 
 ## About
