@@ -77,21 +77,27 @@
   </tr>
 </table>
 
-## Public Work
+## Featured Projects
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/PSR94/citadel">citadel</a></strong><br/>
+      Enterprise retrieval intelligence platform built around evidence-first document understanding, hybrid retrieval, graph-aware expansion, reranking, and strict citations.
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/PSR94/ContextMesh">ContextMesh</a></strong><br/>
+      Knowledge intelligence platform for enterprise documents that combines multiple retrieval paths, explicit question routing, and grounded answers with transparent evidence.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <strong><a href="https://github.com/PSR94/knowledge_graph_rag">knowledge_graph_rag</a></strong><br/>
-      Local-first evidence graph RAG app using Neo4j and explicit evidence references for answer grounding.
+      Local-first evidence graph RAG application using Neo4j and explicit evidence references for answer grounding.
     </td>
-    <td width="33%" valign="top">
-      <strong><a href="https://github.com/PSR94/AI-Resume-Tailor">AI-Resume-Tailor</a></strong><br/>
-      Resume tailoring workflow focused on making job-aligned document generation more practical and repeatable.
-    </td>
-    <td width="33%" valign="top">
-      <strong><a href="https://github.com/PSR94/image2textapp">image2textapp</a></strong><br/>
-      Lightweight image-to-text app exploring deployed AI UX with a simple Streamlit-based interface.
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/PSR94/helios">helios</a></strong><br/>
+      Governed AI analytics engineering platform for semantic NL-to-SQL, trust-aware execution, and explainable insights.
     </td>
   </tr>
 </table>
