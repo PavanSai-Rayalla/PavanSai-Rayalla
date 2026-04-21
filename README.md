@@ -175,27 +175,16 @@
 ## GitHub Activity
 
 <p align="center">
-  A cleaner view of contribution rhythm, streaks, and activity momentum.
+  A cleaner view of contribution rhythm and activity flow.
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PSR94&theme=github_dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PSR94&theme=github" />
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PSR94&theme=github_dark" alt="GitHub stats summary" />
-      </picture>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PSR94&theme=github_dark&utcOffset=-5" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PSR94&theme=github&utcOffset=-5" />
-        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PSR94&theme=github_dark&utcOffset=-5" alt="Productive time summary" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=1F2937&ring=F97316&fire=F97316&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=CBD5E1&ring=EA580C&fire=EA580C&currStreakNum=0F172A&sideNums=0F172A&currStreakLabel=0284C7&sideLabels=475569&dates=475569" />
+    <img height="180" src="https://streak-stats.demolab.com?user=PSR94&hide_border=true&background=00000000&stroke=1F2937&ring=F97316&fire=F97316&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8" alt="GitHub streak" />
+  </picture>
+</p>
 
 <p align="center">
   <picture>
