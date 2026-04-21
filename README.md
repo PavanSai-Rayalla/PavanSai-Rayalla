@@ -135,32 +135,37 @@
 
 ## Certifications
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <img src="https://cdn.simpleicons.org/anthropic/D4A373" width="54" alt="Anthropic" /><br/><br/>
+    <td width="33.33%" align="center" valign="top">
+      <img src="https://cdn.simpleicons.org/anthropic/D4A373" width="88" alt="Anthropic" /><br/><br/>
       <strong>Anthropic</strong><br/>
       Claude certification track
     </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="76" alt="Microsoft Certification" /><br/><br/>
+    <td width="33.33%" align="center" valign="top">
+      <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="120" alt="Microsoft Certification" /><br/><br/>
       <strong>Microsoft</strong><br/>
       Fabric professional certification
     </td>
-    <td width="33%" align="center" valign="top">
-      <img src="https://miro.medium.com/0*eW2CZ9I3RUvn1PAW.png" width="92" alt="AWS Certification" /><br/><br/>
+    <td width="33.33%" align="center" valign="top">
+      <img src="https://miro.medium.com/0*eW2CZ9I3RUvn1PAW.png" width="118" alt="AWS Certification" /><br/><br/>
       <strong>AWS</strong><br/>
       Cloud professional certification
     </td>
   </tr>
+</table>
+
+<br/>
+
+<table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="54" alt="Snowflake" /><br/><br/>
+      <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="88" alt="Snowflake" /><br/><br/>
       <strong>Snowflake</strong><br/>
       Platform certification
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/2025-02_Badge_SF-Certified_Agentforce-Specialist_High-Res.png" width="92" alt="Salesforce Certification" /><br/><br/>
+      <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/2025-02_Badge_SF-Certified_Agentforce-Specialist_High-Res.png" width="118" alt="Salesforce Certification" /><br/><br/>
       <strong>Salesforce</strong><br/>
       Platform certification
     </td>
