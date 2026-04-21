@@ -135,13 +135,37 @@
 
 ## Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Anthropic-Certified-D4A373?style=for-the-badge&logo=anthropic&logoColor=111111" alt="Anthropic Certified" />
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric Certified" />
-  <img src="https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified" />
-  <img src="https://img.shields.io/badge/Snowflake-Certified-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake Certified" />
-  <img src="https://img.shields.io/badge/Salesforce-Certified-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce Certified" />
-</p>
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <img src="https://cdn.simpleicons.org/anthropic/D4A373" width="54" alt="Anthropic" /><br/><br/>
+      <strong>Anthropic</strong><br/>
+      Claude certification track
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://cdn.simpleicons.org/microsoft/0078D4" width="54" alt="Microsoft" /><br/><br/>
+      <strong>Microsoft</strong><br/>
+      Fabric professional certification
+    </td>
+    <td width="33%" align="center" valign="top">
+      <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="54" alt="AWS" /><br/><br/>
+      <strong>AWS</strong><br/>
+      Cloud professional certification
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="54" alt="Snowflake" /><br/><br/>
+      <strong>Snowflake</strong><br/>
+      Platform certification
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://cdn.simpleicons.org/salesforce/00A1E0" width="54" alt="Salesforce" /><br/><br/>
+      <strong>Salesforce</strong><br/>
+      Platform certification
+    </td>
+  </tr>
+</table>
 
 ## GitHub Activity
 
