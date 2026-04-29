@@ -241,12 +241,12 @@ I care about AI systems that are useful beyond a demo: **grounded in trusted dat
       Claude certification track
     </td>
     <td width="33.33%" align="center" valign="top">
-      <img src="https://cdn.simpleicons.org/microsoft/5E5E5E" width="88" alt="Microsoft Certification" /><br/><br/>
+      <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="118" alt="Microsoft Certification" /><br/><br/>
       <strong>Microsoft</strong><br/>
       Fabric professional certification
     </td>
     <td width="33.33%" align="center" valign="top">
-      <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="88" alt="AWS Certification" /><br/><br/>
+      <img src="https://skillicons.dev/icons?i=aws" width="88" alt="AWS Certification" /><br/><br/>
       <strong>AWS</strong><br/>
       Cloud professional certification
     </td>
