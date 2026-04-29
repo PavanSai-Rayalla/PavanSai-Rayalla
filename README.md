@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:0f766e,100:f97316&height=200&section=header&text=Pavan%20Sai%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20and%20AI%20Engineer%20%7C%20Agentic%20AI%20and%20GenAI%20%7C%20Microsoft%20Fabric%20and%20Azure&descAlignY=55&descSize=18" />type=waving&color=0:0f172a,40:0f766e,100:f97316&height=200&section=header&text=Pavan%20Sai%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20%7C%20Full%20Stack%20Systems&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:0f766e,100:f97316&height=200&section=header&text=Pavan%20Sai%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20and%20AI%20Engineer%20%7C%20Agentic%20AI%20and%20GenAI%20%7C%20Microsoft%20Fabric%20and%20Azure&descAlignY=55&descSize=18" />
 
 <!-- BADGES ROW -->
 <p align="center">
@@ -17,9 +17,11 @@
 <!-- TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=0F766E&center=true&vCenter=true&multiline=false&repeat=true&width=1000&lines=Enterprise+Data+%26+AI+Engineering;Agentic+AI%2C+RAG%2C+and+LLMOps;Microsoft+Fabric+%7C+Azure+%7C+GenAI+Systems" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=0F766E&center=true&vCenter=true&multiline=false&repeat=true&width=1000&lines=Enterprise+Data+and+AI+Engineering;Agentic+AI%2C+RAG%2C+and+LLMOps;Microsoft+Fabric+%7C+Azure+%7C+GenAI+Systems" alt="Typing SVG"/>
   </a>
 </p>
+
+---
 
 ---
 
