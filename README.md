@@ -23,32 +23,15 @@
 
 ---
 
----
+## About
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="28" /> About Me
+I am a Senior Data & AI Engineer with 10+ years of experience building enterprise data platforms, GenAI systems, agentic workflows, and production AI applications across financial services, healthcare, insurance, and retail.
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <p>
-        <i>AI/ML engineer building agentic systems, grounded retrieval, and product-shaped software.</i>
-      </p>
-      <p>
-        I care most about the part of AI engineering where model capability meets system design. The goal is not just to make something impressive once, but to make it dependable, understandable, and genuinely useful inside a real workflow.
-      </p>
-      <p>
-        My public GitHub is where I share that thinking in visible form: retrieval systems, orchestration patterns, full-stack AI applications, and experiments that show how I approach end-to-end product delivery.
-      </p>
-      <br/>
-      <b>🚀 Right Now</b>
-      <ul>
-        <li>Designing agent workflows that combine tools, retrieval, and explicit decision paths</li>
-        <li>Building RAG systems with stronger grounding, clearer evidence, and better output quality</li>
-        <li>Shaping AI products where backend logic, UX, and operational behavior all line up cleanly</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+My work sits at the intersection of data engineering, applied AI, and enterprise software delivery. I focus on turning complex business processes into reliable systems through governed data foundations, retrieval pipelines, workflow automation, evaluation, observability, and production-grade engineering practices.
+
+Recently, I have been focused on Microsoft Fabric and Azure modernization, enterprise RAG systems, semantic search, LLMOps, regulatory workflow automation, and agentic AI patterns that combine tools, retrieval, human review, and auditable decision paths.
+
+I care about AI systems that are useful beyond a demo: grounded in trusted data, measurable in behavior, explainable to stakeholders, and maintainable by engineering teams.
 
 ## Build Focus
 
@@ -138,17 +121,17 @@
     <td width="33.33%" align="center" valign="top">
       <img src="https://cdn.simpleicons.org/anthropic/D4A373" width="88" alt="Anthropic" /><br/><br/>
       <strong>Anthropic</strong><br/>
-      Claude certification track
+      Claude Certified Architect
     </td>
     <td width="33.33%" align="center" valign="top">
       <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="120" alt="Microsoft Certification" /><br/><br/>
       <strong>Microsoft</strong><br/>
-      Fabric professional certification
+      Azure AI Engineer, Azure Solutions Architect, Fabric Data Engineer
     </td>
     <td width="33.33%" align="center" valign="top">
       <img src="https://miro.medium.com/0*eW2CZ9I3RUvn1PAW.png" width="118" alt="AWS Certification" /><br/><br/>
       <strong>AWS</strong><br/>
-      Cloud professional certification
+      AWS Certified Developer Associate
     </td>
   </tr>
 </table>
@@ -158,12 +141,12 @@
     <td width="50%" align="center" valign="top">
       <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="88" alt="Snowflake" /><br/><br/>
       <strong>Snowflake</strong><br/>
-      Platform certification
+      SnowPro Core & SnowPro GenAI Specialty
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/2025-02_Badge_SF-Certified_Agentforce-Specialist_High-Res.png" width="118" alt="Salesforce Certification" /><br/><br/>
-      <strong>Salesforce</strong><br/>
-      Platform certification
+      <img src="https://cdn.simpleicons.org/databricks/FF3621" width="88" alt="Databricks" /><br/><br/>
+      <strong>Databricks</strong><br/>
+      Machine Learning Professional
     </td>
   </tr>
 </table>
