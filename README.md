@@ -27,7 +27,7 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="100%" valign="top">
       <p>
         <i>AI/ML engineer building agentic systems, grounded retrieval, and product-shaped software.</i>
       </p>
@@ -45,9 +45,7 @@
         <li>Shaping AI products where backend logic, UX, and operational behavior all line up cleanly</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" alt="Developer"/>
-    </td>
+
   </tr>
 </table>
 
