@@ -45,9 +45,6 @@
         <li>Shaping AI products where backend logic, UX, and operational behavior all line up cleanly</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" alt="Developer"/>
-    </td>
   </tr>
 </table>
 
@@ -190,18 +187,6 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=E5E7EB&line=14B8A6&point=F59E0B&area=true&area_color=0F2E2E&hide_border=true" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=334155&line=0F766E&point=EA580C&area=true&area_color=DCFCE7&hide_border=true" />
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=E5E7EB&line=14B8A6&point=F59E0B&area=true&area_color=0F2E2E&hide_border=true" width="100%" alt="Activity graph" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
-<table width="92%" align="center">
-  <tr>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PSR94/PSR94/output/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PSR94/PSR94/output/github-contribution-grid-snake.svg" />
-        <img width="100%" alt="github contribution snake animation" src="https://raw.githubusercontent.com/PSR94/PSR94/output/github-contribution-grid-snake.svg" />
       </picture>
     </td>
   </tr>
