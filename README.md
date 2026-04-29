@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:0f766e,100:f97316&height=200&section=header&text=Pavan%20Sai%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Data%20%26%20AI%20Engineer%20%7C%20Agentic%20AI%20%26%20GenAI%20%7C%20Microsoft%20Fabric%20%26%20Azure&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:0f766e,100:f97316&height=200&section=header&text=Pavan%20Sai%20R&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20AI%20%7C%20Full%20Stack%20Systems&descAlignY=55&descSize=18" />
 
 <!-- BADGES ROW -->
 <p align="center">
@@ -16,23 +16,40 @@
 
 <!-- TYPING SVG -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;weight=600&amp;size=20&amp;duration=3200&amp;pause=1000&amp;color=0F766E&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;repeat=true&amp;width=900&amp;height=45&amp;lines=Enterprise%20Data%20%26%20AI%20Engineering;Agentic%20AI%2C%20RAG%2C%20and%20LLMOps;Microsoft%20Fabric%20%7C%20Azure%20%7C%20GenAI%20Systems"
-    alt="Enterprise Data and AI Engineering"
-  />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0F766E&center=true&vCenter=true&multiline=false&repeat=true&width=760&lines=Building+AI+systems+that+hold+up+in+real+workflows;Grounded+retrieval%2C+agent+orchestration%2C+and+usable+interfaces;From+prototype+energy+to+production-minded+engineering" alt="Typing SVG"/>
+  </a>
 </p>
 
 ---
 
-## About
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="28" /> About Me
 
-I am a Senior Data & AI Engineer with 10+ years of experience building enterprise data platforms, GenAI systems, agentic workflows, and production AI applications across financial services, healthcare, insurance, and retail.
-
-My work sits at the intersection of data engineering, applied AI, and enterprise software delivery. I focus on turning complex business processes into reliable systems through governed data foundations, retrieval pipelines, workflow automation, evaluation, observability, and production-grade engineering practices.
-
-Recently, I have been focused on Microsoft Fabric and Azure modernization, enterprise RAG systems, semantic search, LLMOps, regulatory workflow automation, and agentic AI patterns that combine tools, retrieval, human review, and auditable decision paths.
-
-I care about AI systems that are useful beyond a demo: grounded in trusted data, measurable in behavior, explainable to stakeholders, and maintainable by engineering teams.
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        <i>AI/ML engineer building agentic systems, grounded retrieval, and product-shaped software.</i>
+      </p>
+      <p>
+        I care most about the part of AI engineering where model capability meets system design. The goal is not just to make something impressive once, but to make it dependable, understandable, and genuinely useful inside a real workflow.
+      </p>
+      <p>
+        My public GitHub is where I share that thinking in visible form: retrieval systems, orchestration patterns, full-stack AI applications, and experiments that show how I approach end-to-end product delivery.
+      </p>
+      <br/>
+      <b>🚀 Right Now</b>
+      <ul>
+        <li>Designing agent workflows that combine tools, retrieval, and explicit decision paths</li>
+        <li>Building RAG systems with stronger grounding, clearer evidence, and better output quality</li>
+        <li>Shaping AI products where backend logic, UX, and operational behavior all line up cleanly</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" alt="Developer"/>
+    </td>
+  </tr>
+</table>
 
 ## Build Focus
 
@@ -122,17 +139,17 @@ I care about AI systems that are useful beyond a demo: grounded in trusted data,
     <td width="33.33%" align="center" valign="top">
       <img src="https://cdn.simpleicons.org/anthropic/D4A373" width="88" alt="Anthropic" /><br/><br/>
       <strong>Anthropic</strong><br/>
-      Claude Certified Architect
+      Claude certification track
     </td>
     <td width="33.33%" align="center" valign="top">
       <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" width="120" alt="Microsoft Certification" /><br/><br/>
       <strong>Microsoft</strong><br/>
-      Azure AI Engineer, Azure Solutions Architect, Fabric Data Engineer
+      Fabric professional certification
     </td>
     <td width="33.33%" align="center" valign="top">
       <img src="https://miro.medium.com/0*eW2CZ9I3RUvn1PAW.png" width="118" alt="AWS Certification" /><br/><br/>
       <strong>AWS</strong><br/>
-      AWS Certified Developer Associate
+      Cloud professional certification
     </td>
   </tr>
 </table>
@@ -142,12 +159,12 @@ I care about AI systems that are useful beyond a demo: grounded in trusted data,
     <td width="50%" align="center" valign="top">
       <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="88" alt="Snowflake" /><br/><br/>
       <strong>Snowflake</strong><br/>
-      SnowPro Core & SnowPro GenAI Specialty
+      Platform certification
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://cdn.simpleicons.org/databricks/FF3621" width="88" alt="Databricks" /><br/><br/>
-      <strong>Databricks</strong><br/>
-      Machine Learning Professional
+      <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/2025-02_Badge_SF-Certified_Agentforce-Specialist_High-Res.png" width="118" alt="Salesforce Certification" /><br/><br/>
+      <strong>Salesforce</strong><br/>
+      Platform certification
     </td>
   </tr>
 </table>
@@ -173,6 +190,18 @@ I care about AI systems that are useful beyond a demo: grounded in trusted data,
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=E5E7EB&line=14B8A6&point=F59E0B&area=true&area_color=0F2E2E&hide_border=true" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=334155&line=0F766E&point=EA580C&area=true&area_color=DCFCE7&hide_border=true" />
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=PSR94&bg_color=00000000&color=E5E7EB&line=14B8A6&point=F59E0B&area=true&area_color=0F2E2E&hide_border=true" width="100%" alt="Activity graph" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<table width="92%" align="center">
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PSR94/PSR94/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PSR94/PSR94/output/github-contribution-grid-snake.svg" />
+        <img width="100%" alt="github contribution snake animation" src="https://raw.githubusercontent.com/PSR94/PSR94/output/github-contribution-grid-snake.svg" />
       </picture>
     </td>
   </tr>
