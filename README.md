@@ -7,10 +7,6 @@
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=PSR94&label=Profile%20Views&color=0f766e&style=for-the-badge" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/pavansair/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-f97316?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </p>
 
 <!-- TYPING SVG -->
@@ -24,7 +20,7 @@
 
 ## About
 
-I am a **Senior Data & AI Engineer** with **10+ years of experience** building enterprise data platforms, GenAI systems, agentic workflows, and production AI applications across **financial services, healthcare, insurance, and retail**.
+I am a **Senior Data & AI Engineer** building enterprise data platforms, GenAI systems, agentic workflows, and production AI applications across **financial services, healthcare, insurance, and retail**.
 
 My work sits at the intersection of **data engineering, applied AI, and enterprise software delivery**. I focus on turning complex business processes into reliable systems through governed data foundations, retrieval pipelines, workflow automation, evaluation, observability, and production-grade engineering practices.
 
@@ -39,7 +35,7 @@ I care about AI systems that are useful beyond a demo: **grounded in trusted dat
 <table>
   <tr>
     <td width="25%" align="center">
-      <strong>10+ Years</strong><br/>
+      <strong>Data & AI Engineering</strong><br/>
       Data, AI, ML, and platform engineering
     </td>
     <td width="25%" align="center">
