@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=720&lines=Building+enterprise+GenAI+%26+RAG+systems;AgentOps+%26+AI+governance+platforms;Evidence+before+generated+confidence;Rust+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+Next.js" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1200&color=0EA5E9&center=true&vCenter=true&width=720&lines=Building+enterprise+GenAI+%26+RAG+systems;AgentOps+%26+AI+governance+platforms;Evidence+before+generated+confidence;Rust+%C2%B7+Python+%C2%B7+FastAPI+%C2%B7+Next.js" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -41,90 +41,90 @@ Four disciplines, one habit: turn "looks right" into something you can prove. <i
 <tr>
 <td width="50%" valign="top">
 
-### [ReleaseTruth](https://github.com/PSR94/ReleaseTruth)
+### <img src="https://img.shields.io/badge/-0ea5e9?style=flat-square" width="14" height="14" alt="" /> [ReleaseTruth](https://github.com/PSR94/ReleaseTruth)
 Behavioral compatibility for software releases. Captures observable behavior across surfaces, normalizes noise, fingerprints releases, and gates regressions with deterministic evidence.
 
-![Rust](https://img.shields.io/badge/Rust-0ea5e9?style=flat-square&logo=rust&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-0ea5e9?style=flat-square&logo=playwright&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0ea5e9?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0ea5e9?style=flat-square&logo=nextdotjs&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=F74C00)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 <br/>
-![Stars](https://img.shields.io/github/stars/PSR94/ReleaseTruth?style=flat-square&color=0ea5e9&labelColor=0b1220)
-![Last commit](https://img.shields.io/github/last-commit/PSR94/ReleaseTruth?style=flat-square&color=0ea5e9&labelColor=0b1220)
+![Stars](https://img.shields.io/github/stars/PSR94/ReleaseTruth?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/PSR94/ReleaseTruth?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### [WireAssume](https://github.com/PSR94/WireAssume)
+### <img src="https://img.shields.io/badge/-0ea5e9?style=flat-square" width="14" height="14" alt="" /> [WireAssume](https://github.com/PSR94/WireAssume)
 Discover what an application actually assumes about upstream APIs. Record → replay → mutate → observe → minimize → infer → compare with OpenAPI.
 
-![Rust](https://img.shields.io/badge/Rust-0ea5e9?style=flat-square&logo=rust&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-0ea5e9?style=flat-square&logo=openapiinitiative&logoColor=white)
-![ddmin](https://img.shields.io/badge/ddmin-0ea5e9?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0ea5e9?style=flat-square&logo=githubactions&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=F74C00)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![ddmin](https://img.shields.io/badge/ddmin-64748b?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 <br/>
-![Stars](https://img.shields.io/github/stars/PSR94/WireAssume?style=flat-square&color=0ea5e9&labelColor=0b1220)
-![Last commit](https://img.shields.io/github/last-commit/PSR94/WireAssume?style=flat-square&color=0ea5e9&labelColor=0b1220)
+![Stars](https://img.shields.io/github/stars/PSR94/WireAssume?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/PSR94/WireAssume?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [DecomProof](https://github.com/PSR94/DecomProof)
+### <img src="https://img.shields.io/badge/-0ea5e9?style=flat-square" width="14" height="14" alt="" /> [DecomProof](https://github.com/PSR94/DecomProof)
 Evidence-backed software decommissioning. Combines static and runtime signals into deterministic retirement proofs instead of hand-wavy "looks unused" decisions.
 
-![Rust](https://img.shields.io/badge/Rust-0ea5e9?style=flat-square&logo=rust&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0ea5e9?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0ea5e9?style=flat-square&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0ea5e9?style=flat-square&logo=postgresql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=F74C00)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 <br/>
-![Stars](https://img.shields.io/github/stars/PSR94/DecomProof?style=flat-square&color=0ea5e9&labelColor=0b1220)
-![Last commit](https://img.shields.io/github/last-commit/PSR94/DecomProof?style=flat-square&color=0ea5e9&labelColor=0b1220)
+![Stars](https://img.shields.io/github/stars/PSR94/DecomProof?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/PSR94/DecomProof?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### [VANGUARD](https://github.com/PSR94/VANGUARD)
+### <img src="https://img.shields.io/badge/-8b5cf6?style=flat-square" width="14" height="14" alt="" /> [VANGUARD](https://github.com/PSR94/VANGUARD)
 AI release intelligence and PR risk copilot. Risk scoring, blast-radius analysis, CI/test diagnostics, policy gates, approvals, and release readiness.
 
-![Python](https://img.shields.io/badge/Python-8b5cf6?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-8b5cf6?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-8b5cf6?style=flat-square&logo=nextdotjs&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-8b5cf6?style=flat-square&logo=neo4j&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=flat-square&logo=neo4j&logoColor=white)
 <br/>
-![Stars](https://img.shields.io/github/stars/PSR94/VANGUARD?style=flat-square&color=8b5cf6&labelColor=0b1220)
-![Last commit](https://img.shields.io/github/last-commit/PSR94/VANGUARD?style=flat-square&color=8b5cf6&labelColor=0b1220)
+![Stars](https://img.shields.io/github/stars/PSR94/VANGUARD?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/PSR94/VANGUARD?style=flat-square)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [ContextMesh](https://github.com/PSR94/ContextMesh)
+### <img src="https://img.shields.io/badge/-8b5cf6?style=flat-square" width="14" height="14" alt="" /> [ContextMesh](https://github.com/PSR94/ContextMesh)
 Private knowledge intelligence platform. Hybrid dense/sparse/graph retrieval, explicit planning, reranking, grounded answers, traces, evals, and tenant-aware access.
 
-![Python](https://img.shields.io/badge/Python-8b5cf6?style=flat-square&logo=python&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-8b5cf6?style=flat-square)
-![Neo4j](https://img.shields.io/badge/Neo4j-8b5cf6?style=flat-square&logo=neo4j&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-8b5cf6?style=flat-square&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=flat-square&logo=neo4j&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 <br/>
-![Stars](https://img.shields.io/github/stars/PSR94/ContextMesh?style=flat-square&color=8b5cf6&labelColor=0b1220)
-![Last commit](https://img.shields.io/github/last-commit/PSR94/ContextMesh?style=flat-square&color=8b5cf6&labelColor=0b1220)
+![Stars](https://img.shields.io/github/stars/PSR94/ContextMesh?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/PSR94/ContextMesh?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
-### [FabricShift](https://github.com/PSR94/fabricshift)
+### <img src="https://img.shields.io/badge/-22c55e?style=flat-square" width="14" height="14" alt="" /> [FabricShift](https://github.com/PSR94/fabricshift)
 Microsoft Fabric migration readiness and execution planning. Target mapping, reconciliation, lineage, migration waves, and modernization workflows.
 
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-22c55e?style=flat-square&logo=microsoftazure&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-22c55e?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-22c55e?style=flat-square&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/Python-22c55e?style=flat-square&logo=python&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
 <br/>
-![Stars](https://img.shields.io/github/stars/PSR94/fabricshift?style=flat-square&color=22c55e&labelColor=0b1220)
-![Last commit](https://img.shields.io/github/last-commit/PSR94/fabricshift?style=flat-square&color=22c55e&labelColor=0b1220)
+![Stars](https://img.shields.io/github/stars/PSR94/fabricshift?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/PSR94/fabricshift?style=flat-square)
 
 </td>
 </tr>
@@ -185,16 +185,16 @@ Small, reviewable fixes that improve correctness, compatibility, tests, docs, or
 
 **AI & data platforms**
 <p>
-<img src="https://img.shields.io/badge/Azure_OpenAI-64748b?style=flat-square" />
-<img src="https://img.shields.io/badge/LangGraph-64748b?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-64748b?style=flat-square" />
-<img src="https://img.shields.io/badge/LLM_evals-64748b?style=flat-square" />
-<img src="https://img.shields.io/badge/MCP-64748b?style=flat-square" />
-<img src="https://img.shields.io/badge/Microsoft_Fabric-64748b?style=flat-square" />
-<img src="https://img.shields.io/badge/Qdrant-64748b?style=flat-square" />
-<img src="https://img.shields.io/badge/Neo4j-64748b?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenSearch-64748b?style=flat-square" />
-<img src="https://img.shields.io/badge/DuckDB-64748b?style=flat-square" />
+<img src="https://img.shields.io/badge/Azure_OpenAI-0ea5e9?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-8b5cf6?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-8b5cf6?style=flat-square" />
+<img src="https://img.shields.io/badge/LLM_evals-8b5cf6?style=flat-square" />
+<img src="https://img.shields.io/badge/MCP-8b5cf6?style=flat-square" />
+<img src="https://img.shields.io/badge/Microsoft_Fabric-22c55e?style=flat-square" />
+<img src="https://img.shields.io/badge/Qdrant-22c55e?style=flat-square" />
+<img src="https://img.shields.io/badge/Neo4j-22c55e?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenSearch-22c55e?style=flat-square" />
+<img src="https://img.shields.io/badge/DuckDB-22c55e?style=flat-square" />
 </p>
 
 
