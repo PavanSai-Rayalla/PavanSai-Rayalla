@@ -151,22 +151,22 @@ Microsoft Fabric migration readiness and execution planning. Target mapping, rec
 Small, reviewable fixes that improve correctness, compatibility, tests, docs, or developer experience in real projects.
 
 | Project | Contribution | Focus |
-|---|---|---|
-| **Mumble** | [TLS 1.3 cipher configuration](https://github.com/mumble-voip/mumble/pull/7309) | ![security](https://img.shields.io/badge/security-64748b?style=flat-square) |
-| **Bifrost** | [required nullable response fields](https://github.com/maximhq/bifrost/pull/6723) | ![correctness](https://img.shields.io/badge/correctness-64748b?style=flat-square) |
-| **Bifrost** | [`count_tokens` routing guard](https://github.com/maximhq/bifrost/pull/6762) | ![correctness](https://img.shields.io/badge/correctness-64748b?style=flat-square) |
+|:---|:---|:---:|
+| **Mumble** | [TLS 1.3 cipher configuration](https://github.com/mumble-voip/mumble/pull/7309) | ![security](https://img.shields.io/badge/security-ef4444?style=flat-square) |
+| **Bifrost** | [required nullable response fields](https://github.com/maximhq/bifrost/pull/6723) | ![correctness](https://img.shields.io/badge/correctness-0ea5e9?style=flat-square) |
+| **Bifrost** | [`count_tokens` routing guard](https://github.com/maximhq/bifrost/pull/6762) | ![correctness](https://img.shields.io/badge/correctness-0ea5e9?style=flat-square) |
 | **isort** | [trailing-comma layout for reexports](https://github.com/PyCQA/isort/pull/2605) | ![formatting](https://img.shields.io/badge/formatting-64748b?style=flat-square) |
-| **CodeCarbon** | [raise on unsuccessful API responses](https://github.com/mlco2/codecarbon/pull/1288) | ![reliability](https://img.shields.io/badge/reliability-64748b?style=flat-square) |
-| **Semantic Kernel** | [honor explicit `None` defaults](https://github.com/microsoft/semantic-kernel/pull/14145) | ![correctness](https://img.shields.io/badge/correctness-64748b?style=flat-square) |
-| **Vertex AI Python SDK** | [agent eval normalization](https://github.com/googleapis/python-aiplatform/pull/6984) | ![correctness](https://img.shields.io/badge/correctness-64748b?style=flat-square) |
+| **CodeCarbon** | [raise on unsuccessful API responses](https://github.com/mlco2/codecarbon/pull/1288) | ![reliability](https://img.shields.io/badge/reliability-f59e0b?style=flat-square) |
+| **Semantic Kernel** | [honor explicit `None` defaults](https://github.com/microsoft/semantic-kernel/pull/14145) | ![correctness](https://img.shields.io/badge/correctness-0ea5e9?style=flat-square) |
+| **Vertex AI Python SDK** | [agent eval normalization](https://github.com/googleapis/python-aiplatform/pull/6984) | ![correctness](https://img.shields.io/badge/correctness-0ea5e9?style=flat-square) |
 | **Vertex AI Python SDK** | [credential defaults](https://github.com/googleapis/python-aiplatform/pull/6983) | ![defaults](https://img.shields.io/badge/defaults-64748b?style=flat-square) |
-| **Vertex AI Python SDK** | [prompt metadata](https://github.com/googleapis/python-aiplatform/pull/6975) | ![docs](https://img.shields.io/badge/docs-64748b?style=flat-square) |
-| **vLLM** | [parallel sampling tests](https://github.com/vllm-project/vllm/pull/48062) | ![tests](https://img.shields.io/badge/tests-64748b?style=flat-square) |
-| **vLLM** | [ModelOpt docs](https://github.com/vllm-project/vllm/pull/48063) | ![docs](https://img.shields.io/badge/docs-64748b?style=flat-square) |
-| **Pydantic** | [contributor setup fix](https://github.com/pydantic/pydantic/pull/13435) | ![dx](https://img.shields.io/badge/dx-64748b?style=flat-square) |
-| **Altair GraphQL** | [deeply nested schema types](https://github.com/altair-graphql/altair/pull/3300) | ![correctness](https://img.shields.io/badge/correctness-64748b?style=flat-square) |
-| **ComparIA** | [dataset export workflow](https://github.com/betagouv/ComparIA/pull/596) | ![tooling](https://img.shields.io/badge/tooling-64748b?style=flat-square) |
-| **Kubeflow Pipelines** | [SDK YAPF through make targets](https://github.com/kubeflow/pipelines/pull/13703) | ![tooling](https://img.shields.io/badge/tooling-64748b?style=flat-square) |
+| **Vertex AI Python SDK** | [prompt metadata](https://github.com/googleapis/python-aiplatform/pull/6975) | ![docs](https://img.shields.io/badge/docs-8b5cf6?style=flat-square) |
+| **vLLM** | [parallel sampling tests](https://github.com/vllm-project/vllm/pull/48062) | ![tests](https://img.shields.io/badge/tests-22c55e?style=flat-square) |
+| **vLLM** | [ModelOpt docs](https://github.com/vllm-project/vllm/pull/48063) | ![docs](https://img.shields.io/badge/docs-8b5cf6?style=flat-square) |
+| **Pydantic** | [contributor setup fix](https://github.com/pydantic/pydantic/pull/13435) | ![dx](https://img.shields.io/badge/dx-22c55e?style=flat-square) |
+| **Altair GraphQL** | [deeply nested schema types](https://github.com/altair-graphql/altair/pull/3300) | ![correctness](https://img.shields.io/badge/correctness-0ea5e9?style=flat-square) |
+| **ComparIA** | [dataset export workflow](https://github.com/betagouv/ComparIA/pull/596) | ![tooling](https://img.shields.io/badge/tooling-f59e0b?style=flat-square) |
+| **Kubeflow Pipelines** | [SDK YAPF through make targets](https://github.com/kubeflow/pipelines/pull/13703) | ![tooling](https://img.shields.io/badge/tooling-f59e0b?style=flat-square) |
 
 <p align="right"><a href="https://github.com/search?q=is%3Apr+author%3APSR94&type=pullrequests"><strong>All authored pull requests →</strong></a></p>
 
@@ -174,17 +174,17 @@ Small, reviewable fixes that improve correctness, compatibility, tests, docs, or
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,50:0ea5e9,100:8b5cf6&height=90&section=header&text=Tech%20Stack&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=42" alt="Tech stack" width="100%" /></p>
 
-**Languages & runtimes**
-<p><img src="https://skillicons.dev/icons?i=python,ts,js,rust,go,java,cs&perline=7" alt="Languages" /></p>
+<p align="center"><strong>Languages &amp; runtimes</strong></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,ts,js,rust,go,java,cs&perline=7" alt="Languages" /></p>
 
-**Frameworks & data stores**
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,redis&perline=5" alt="Frameworks and data stores" /></p>
+<p align="center"><strong>Frameworks &amp; data stores</strong></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,redis&perline=5" alt="Frameworks and data stores" /></p>
 
-**Cloud & operations**
-<p><img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,azure,aws,gcp,githubactions,git,linux&perline=9" alt="Cloud and operations" /></p>
+<p align="center"><strong>Cloud &amp; operations</strong></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,azure,aws,gcp,githubactions,git,linux&perline=9" alt="Cloud and operations" /></p>
 
-**AI & data platforms**
-<p>
+<p align="center"><strong>AI &amp; data platforms</strong></p>
+<p align="center">
 <img src="https://img.shields.io/badge/Azure_OpenAI-0ea5e9?style=flat-square" />
 <img src="https://img.shields.io/badge/LangGraph-8b5cf6?style=flat-square" />
 <img src="https://img.shields.io/badge/RAG-8b5cf6?style=flat-square" />
